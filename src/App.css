@@ -1,0 +1,8 @@
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: initial;
+}
+
+/* Project-specific styles live within component CSS files. */
